@@ -1,0 +1,18 @@
+{
+  "name": "nearley-auto-unwrap",
+  "version": "0.1.0",
+  "description": "Makes rules with one symbol return that symbol's value, instead of an array containing it.",
+  "keywords": [
+    "nearley",
+    "grammar",
+    "autoUnwrap"
+  ],
+  "bugs": "https://github.com/raphinesse/nearley-auto-unwrap/issues",
+  "repository": "github:raphinesse/nearley-auto-unwrap",
+  "license": "MIT",
+  "author": "Raphael von der Grün",
+  "main": "index.js",
+  "dependencies": {
+    "clone": "^2.1.2"
+  }
+}
